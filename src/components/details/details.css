@@ -1,0 +1,29 @@
+.table-9-cols th,
+.table-9-cols td {
+  width: 11.1%; /* Set the width to approximately 100% / 9 */
+  text-align: center;
+}
+
+.firstTable {
+    display: inline-block;
+    width: 60%;
+    margin-left: 60px;
+}
+
+.secondTable {
+    display: inline-block;
+    width: 30%;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.Address {
+    padding: 20px;
+    text-align: left;
+}
+
+.headln {
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: left;
+}

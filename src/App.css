@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "Medium";   /*Can be any text*/
+  src: local("Cairo-Medium"),
+    url("../public/fonts/Cairo/static/Cairo-Medium.ttf") format("truetype");
+}
