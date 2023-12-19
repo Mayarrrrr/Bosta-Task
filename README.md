@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Bosta Shipment Tracking App
+Welcome to the Bosta Shipment Tracking React application! This app is designed to replicate the functionality of Bosta's tracking service. Below are the key points and instructions for using and developing this application:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+### 1. Shipment Tracking API:
+- Utilize the Bosta Shipment tracking GET request API tracking.bosta.co.
+- Sample tracking numbers to be used: 7234258, 13737343, 67151313.
+
+### 2. State Management System:
+- Develop the app using React, Context, and JavaScript.
+
+### 3. API Response Handling:
+- Call the API and handle the response.
+
+### 4. Language Localization:
+- The data returned from the API is in English.
+- Implement language localization to support both English and Arabic.
+- Map English strings to their Arabic equivalents in a way that enhances user experience.
+
 
 ## Available Scripts
 
